@@ -1,4 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
 string firstName = Console.ReadLine();
 string LastName = Console.ReadLine();
 string email = Console.ReadLine();
