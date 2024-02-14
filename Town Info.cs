@@ -1,3 +1,3 @@
-string town = Console.ReadLine();
-string contry = Console.ReadLine();
-Console.WriteLine(town + " is in " + contry);
+string townName = Console.ReadLine();
+string contryName = Console.ReadLine();
+Console.WriteLine(townName + " is in " + contryName);
