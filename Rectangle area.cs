@@ -1,4 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
 int length = int.Parse(Console.ReadLine());
 int width = int.Parse(Console.ReadLine());
 
