@@ -1,4 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
 double distance = double.Parse(Console.ReadLine());
 double time = double.Parse(Console.ReadLine());
 
