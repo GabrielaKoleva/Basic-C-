@@ -1,4 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
 double tomatoPrice = double.Parse(Console.ReadLine());
 double tomatoQuantity = double.Parse(Console.ReadLine());
 double cucumberPrice = double.Parse(Console.ReadLine());
