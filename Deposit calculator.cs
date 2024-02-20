@@ -1,4 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
 double amount = double.Parse(Console.ReadLine());
 int months = int.Parse(Console.ReadLine());
 double annualInterestRate = double.Parse(Console.ReadLine());
